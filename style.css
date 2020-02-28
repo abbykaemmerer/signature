@@ -1,0 +1,25 @@
+html {
+    font-family: 'Roboto';
+    font-weight: 100;
+}
+
+img {
+    width: 100px;
+    float: left;
+    margin: 0 15px;
+    border-right: 3px solid #d63a2b;
+    padding-right: 10px;
+}
+
+h3 {
+    line-height: 5px;
+}
+
+span {
+    color: #d73a2b;
+}
+#name {
+    padding-top: 30px;
+}
+
+
